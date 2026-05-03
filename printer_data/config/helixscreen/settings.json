@@ -9,7 +9,8 @@
     "drm_device": "",
     "gcode_render_mode": 0,
     "screensaver_type": 2,
-    "sleep_sec": 600
+    "sleep_sec": 600,
+    "time_format": 1
   },
   "gcode_viewer": {
     "shading_model": "phong",
