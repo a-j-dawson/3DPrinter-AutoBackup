@@ -1,8 +1,12 @@
 {
   "active_printer_id": "ste3",
+  "appearance": {
+    "show_widget_labels": true
+  },
   "config_version": 16,
   "dark_mode": true,
   "display": {
+    "animations_enabled": true,
     "bed_mesh_render_mode": 0,
     "dim_brightness": 30,
     "dim_sec": 300,
