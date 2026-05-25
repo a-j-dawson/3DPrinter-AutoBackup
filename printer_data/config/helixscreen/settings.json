@@ -3,7 +3,7 @@
   "appearance": {
     "show_widget_labels": true
   },
-  "config_version": 16,
+  "config_version": 17,
   "dark_mode": true,
   "display": {
     "animations_enabled": true,
@@ -159,7 +159,7 @@
             "temperature_sensor MCU",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-05-03T00:14:02Z"
+          "timestamp": "2026-05-25T22:40:30Z"
         },
         "optional": []
       },
