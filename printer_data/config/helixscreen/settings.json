@@ -159,7 +159,7 @@
             "temperature_sensor MCU",
             "temperature_sensor Pi"
           ],
-          "timestamp": "2026-06-01T06:46:20Z"
+          "timestamp": "2026-06-07T05:15:59Z"
         },
         "optional": []
       },
@@ -544,7 +544,7 @@
     }
   },
   "update": {
-    "dismissed_version": "0.99.25"
+    "dismissed_version": "0.99.71"
   },
   "wizard_completed": true
 }
